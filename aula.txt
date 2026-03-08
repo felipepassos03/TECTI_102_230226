@@ -1,4 +1,1 @@
-esssa linha eu escrevi no nano
-Agora posso editar meu arquivo
-
-ola, feito pelo git hub !!!!
+Agora vai começar a brincadeira!!
